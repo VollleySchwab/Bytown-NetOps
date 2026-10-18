@@ -1,0 +1,8 @@
+Q1: 7b7ae2da
+Q2: 2
+Q3: git pull --rebase origin main (this will show me the updated worker folder 
+and lets me push my  own without overiwritting theirs)
+Q4: No, you shoudl've put in secrets.env into .gitignore first before hand 
+for it to be secret.
+Q5: git branch -d old-fix    
+git psuh origin --delete old-fix
